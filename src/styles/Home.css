@@ -57,6 +57,9 @@
     justify-content: center;
     align-items: center;
   }
+  .headerContainer h1,
+  .headerContainer p {
+  }
 
   .headerContainer {
     margin-left: 0px;
